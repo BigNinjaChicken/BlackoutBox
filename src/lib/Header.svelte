@@ -14,21 +14,6 @@
     <div class="is-widescreen">
         <div class="columns">
             <aside class="menu">
-                <!-- <p class="menu-label">General</p>
-                <ul class="menu-list">
-                    <li><a>Dashboard</a></li>
-                    <li><a>Customers</a></li>
-                </ul>
-                <p class="menu-label">Administration</p>
-                <ul class="menu-list">
-                    <li><a>Team Settings</a></li>
-                    <li>
-                        <a class="is-active">Manage Team</a>
-                        <ul>
-                            <li><a>Members</a></li>
-                        </ul>
-                    </li>
-                </ul> -->
                 <p class="menu-label mb-3">Black Out Box</p>
                 <ul class="menu-list mb-3">
                     <li><a class="is-active" href="./">Dashboard</a></li>
