@@ -36,10 +36,10 @@
     "windows": [
       {
         "fullscreen": false,
-        "resizable": true,
+        "resizable": false,
         "title": "blackout_box",
-        "width": 800,
-        "height": 600
+        "width": 830,
+        "height": 630
       }
     ]
   }

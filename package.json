@@ -14,7 +14,8 @@
     "@beeanco/svelte-bulma": "^0.14.5",
     "@tauri-apps/api": "^1.4.0",
     "bulma": "^0.9.4",
-    "firebase": "^10.1.0"
+    "firebase": "^10.1.0",
+    "tauri-plugin-log-api": "github:tauri-apps/tauri-plugin-log"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^2.4.2",
